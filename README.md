@@ -1,5 +1,5 @@
 # User management website
-A website where users can create their own account by filling the form. As long as you sign up, you will be a member of the team and have the right to edit your information!
+A website where users can create their own account by filling the registration form. When you register, your infor will be validated. As long as you sign up, you will be a member of the team and have the right to edit your information!
 
 URL https://staff-management.surge.sh/
 
