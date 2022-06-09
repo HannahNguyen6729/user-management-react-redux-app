@@ -1,0 +1,6 @@
+export const SIGN_UP= 'SIGN_UP';
+export const DELETE_USER = 'DELETE_USER';
+export const EDIT_USER_INFO = 'EDIT_USER_INFO';
+export const UPDATE_USER_INFO= 'UPDATE_USER_INFO';
+export const TURN_ON_DISABLED = 'TURN_ON_DISABLED';
+export const TURN_OFF_DISABLED = 'TURN_OFF_DISABLED';
